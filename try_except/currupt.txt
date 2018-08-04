@@ -1,0 +1,2 @@
+thats not supposed to work
+uncomment line 4 and 5 to raise and Exception
